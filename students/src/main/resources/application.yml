@@ -1,9 +1,8 @@
-
 spring:
   datasource:
     url: jdbc:mysql://localhost:3306/studentDB?createDatabaseIfNotExist=true
     username: root
-    password: virtusa@1234
+    password:
     driver-class-name: com.mysql.jdbc.Driver
   jpa:
     hibernate:

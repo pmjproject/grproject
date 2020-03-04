@@ -26,4 +26,11 @@ public class StudentController {
 
     }
 
+    @PutMapping("/updateStudent")
+    public String updateStudent(@RequestBody Student newStudentData){
+        return studentService.updateStudent(newStudentData);
+
+    }
+
+
 }

@@ -15,7 +15,7 @@ public class Telephone {
     private String number;
 
     @ManyToOne(fetch = FetchType.EAGER)
-    @JoinColumn
+    @JoinColumn(name="student_id")
     @JsonIgnore
     private Student student;
 }

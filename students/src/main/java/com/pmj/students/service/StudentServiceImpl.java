@@ -15,14 +15,26 @@ public class StudentServiceImpl implements StudentService {
 
     @Override
     public List<Student> findAllStudents() {
-
-        List<Student> allStudents= studentRepository.findAll();
-        return  allStudents;
+        return studentRepository.findAll();
     }
 
     @Override
     public String saveStudent(Student studentData) {
         studentRepository.save(studentData);
         return "Student Data Saved";
+    }
+
+    @Override
+    public String updateStudent(Student newStudentData) {
+        String msg = null;
+        if(newStudentData.getId() != null){
+            studentRepository.save(newStudentData);
+            msg = "Data Saved";
+            return msg;
+        }
+        else {
+            msg = "Error";
+           return msg;
+        }
     }
 }

@@ -9,4 +9,6 @@ public interface StudentService {
     List<Student> findAllStudents();
 
     String saveStudent(Student studentData);
+
+    String updateStudent(Student newStudentData);
 }

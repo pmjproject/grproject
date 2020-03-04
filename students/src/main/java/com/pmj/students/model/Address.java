@@ -19,6 +19,9 @@ public class Address {
     private String address;
     private String city;
 
+    public Address() {
+    }
+
     public Address(Integer id, String address, String city) {
         this.id = id;
         this.address = address;

@@ -14,6 +14,13 @@
       </list>
     </option>
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1YctiRhVqT5c67f6KXwlYkHZRRa" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -58,6 +65,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="526" y="110" width="374" height="582" key="#com.intellij.ide.util.MemberChooser" timestamp="1583360256105">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="526" y="110" width="374" height="582" key="#com.intellij.ide.util.MemberChooser/70.27.1296.741@70.27.1296.741" timestamp="1583360256105" />
     <state x="559" y="289" width="308" height="223" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583259966668">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
@@ -66,21 +77,25 @@
       <screen x="70" y="27" width="1296" height="741" />
     </state>
     <state x="501" y="155" width="424" height="491" key="FileChooserDialogImpl/70.27.1296.741@70.27.1296.741" timestamp="1583255171172" />
-    <state width="1250" height="213" key="GridCell.Tab.0.bottom" timestamp="1583264475533">
+    <state width="1250" height="497" key="GridCell.Tab.0.bottom" timestamp="1583361237598">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="213" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1583264475533" />
-    <state width="1250" height="213" key="GridCell.Tab.0.center" timestamp="1583264475531">
+    <state width="1250" height="497" key="GridCell.Tab.0.bottom/70.27.1296.741@70.27.1296.741" timestamp="1583361237598" />
+    <state width="1250" height="497" key="GridCell.Tab.0.center" timestamp="1583361237597">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="213" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1583264475531" />
-    <state width="1250" height="213" key="GridCell.Tab.0.left" timestamp="1583264475531">
+    <state width="1250" height="497" key="GridCell.Tab.0.center/70.27.1296.741@70.27.1296.741" timestamp="1583361237597" />
+    <state width="1250" height="497" key="GridCell.Tab.0.left" timestamp="1583361237596">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="213" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1583264475531" />
-    <state width="1250" height="213" key="GridCell.Tab.0.right" timestamp="1583264475532">
+    <state width="1250" height="497" key="GridCell.Tab.0.left/70.27.1296.741@70.27.1296.741" timestamp="1583361237596" />
+    <state width="1250" height="497" key="GridCell.Tab.0.right" timestamp="1583361237598">
       <screen x="70" y="27" width="1296" height="741" />
     </state>
-    <state width="1250" height="213" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1583264475532" />
+    <state width="1250" height="497" key="GridCell.Tab.0.right/70.27.1296.741@70.27.1296.741" timestamp="1583361237598" />
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583341309527">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state x="374" y="225" key="com.intellij.ide.util.TipDialog/70.27.1296.741@70.27.1296.741" timestamp="1583341309527" />
   </component>
 </project>

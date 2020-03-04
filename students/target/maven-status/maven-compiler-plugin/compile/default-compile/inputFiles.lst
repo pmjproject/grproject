@@ -1,4 +1,9 @@
-/home/user/Downloads/students/src/main/java/com/pmj/students/controller/StudentController.java
-/home/user/Downloads/students/src/main/java/com/pmj/students/service/StudentService.java
-/home/user/Downloads/students/src/main/java/com/pmj/students/service/StudentServiceImpl.java
-/home/user/Downloads/students/src/main/java/com/pmj/students/StudentsApplication.java
+/home/user/Documents/grproject-master/students/src/main/java/com/pmj/students/model/Telephone.java
+/home/user/Documents/grproject-master/students/src/main/java/com/pmj/students/model/Address.java
+/home/user/Documents/grproject-master/students/src/main/java/com/pmj/students/model/Course.java
+/home/user/Documents/grproject-master/students/src/main/java/com/pmj/students/repository/StudentRepository.java
+/home/user/Documents/grproject-master/students/src/main/java/com/pmj/students/service/StudentService.java
+/home/user/Documents/grproject-master/students/src/main/java/com/pmj/students/StudentsApplication.java
+/home/user/Documents/grproject-master/students/src/main/java/com/pmj/students/model/Student.java
+/home/user/Documents/grproject-master/students/src/main/java/com/pmj/students/controller/StudentController.java
+/home/user/Documents/grproject-master/students/src/main/java/com/pmj/students/service/StudentServiceImpl.java

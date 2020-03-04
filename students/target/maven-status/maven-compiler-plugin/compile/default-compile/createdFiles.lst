@@ -1,4 +1,9 @@
-com/pmj/students/service/StudentServiceImpl.class
-com/pmj/students/StudentsApplication.class
+com/pmj/students/model/Address.class
+com/pmj/students/model/Student.class
 com/pmj/students/controller/StudentController.class
 com/pmj/students/service/StudentService.class
+com/pmj/students/repository/StudentRepository.class
+com/pmj/students/service/StudentServiceImpl.class
+com/pmj/students/model/Telephone.class
+com/pmj/students/model/Course.class
+com/pmj/students/StudentsApplication.class

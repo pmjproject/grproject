@@ -1,6 +1,12 @@
 package com.pmj.students.service;
 
+import com.pmj.students.model.Student;
+
+import java.util.List;
+
 public interface StudentService {
 
-    String findAllStudents();
+    List<Student> findAllStudents();
+
+    String saveStudent(Student studentData);
 }

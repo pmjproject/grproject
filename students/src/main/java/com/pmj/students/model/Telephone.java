@@ -6,16 +6,35 @@ import lombok.Data;
 import javax.persistence.*;
 
 @Entity
-@Data
+
 public class Telephone {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
     private String number;
-
-    @ManyToOne(fetch = FetchType.EAGER)
-    @JoinColumn(name="student_id")
+    @ManyToOne
+    @JoinColumn
     @JsonIgnore
-    private Student student;
+   private Student student;
+
+    public void setStudent(Student student) {
+        this.student = student;
+    }
+
+    public Integer getId() {
+        return id;
+    }
+
+    public String getNumber() {
+        return number;
+    }
+
+    public Student getStudent() {
+        return student;
+    }
+
+    public void setNumber(String number) {
+        this.number = number;
+    }
 }

@@ -32,5 +32,10 @@ public class StudentController {
 
     }
 
+    @GetMapping("/getStudent/{id}")
+    public Student getStudentByID(@PathVariable Integer id){
+        return studentService.findByID(id);
+    }
+
 
 }

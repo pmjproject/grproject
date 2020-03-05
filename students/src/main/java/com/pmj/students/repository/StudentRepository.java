@@ -11,6 +11,7 @@ public interface StudentRepository extends JpaRepository<Student, Integer> {
     @Override
     public <S extends Student> S save(S s);
 
+
     @Override
     public List<Student> findAll();
 }

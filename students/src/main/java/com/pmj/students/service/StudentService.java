@@ -11,4 +11,6 @@ public interface StudentService {
     String saveStudent(Student studentData);
 
     String updateStudent(Student newStudentData);
+
+    Student findByID(Integer id);
 }
